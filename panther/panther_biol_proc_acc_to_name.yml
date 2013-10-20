@@ -1,0 +1,242 @@
+--- 
+BP00067: Protein glycosylation
+BP00094: Other nitrogen metabolism
+BP00148: Immunity and defense
+BP00174: "Regulation of vasoconstriction, dilation"
+BP00255: Cytokine/chemokine mediated immunity
+BP00282: Mitosis
+BP00068: Protein ADP-ribosylation
+BP00095: Phosphate metabolism
+BP00149: T-cell mediated immunity
+BP00256: RNA catabolism
+BP00283: Other oncogenesis
+BP00069: Protein disulfide-isomerase reaction
+BP00096: Polyphosphate catabolism
+BP00176: Blood clotting
+BP00284: Hematopoiesis
+BP00097: Regulation of phosphate metabolism
+BP00178: Stress response
+BP00285: Cell structure and motility
+BP00098: Polyphosphate biosynthesis
+BP00179: Apoptosis
+BP00286: Cell structure
+BP00099: Phosphate transport
+BP00287: Cell motility
+BP00288: Granulocyte-mediated immunity
+BP00289: Other metabolism
+BP00100: Other phosphate metabolism
+BP00020: Fatty acid metabolism
+BP00101: Sulfur metabolism
+BP00021: Fatty acid biosynthesis
+BP00102: Signal transduction
+BP00210: Other blood circulation and gas exchange activity
+BP00022: Fatty acid beta-oxidation
+BP00103: Cell surface receptor mediated signal transduction
+BP00023: Fatty acid desaturation
+BP00050: mRNA capping
+BP00104: G-protein mediated signaling
+BP00211: Miscellaneous
+BP00024: Acyl-CoA metabolism
+BP00051: mRNA end-processing and stability
+BP00052: Reverse transcription
+BP00132: Receptor mediated endocytosis
+BP00026: Cholesterol metabolism
+BP00107: Cytokine and chemokine mediated signaling pathway
+BP00133: Nuclear transport
+BP00240: Fertilization
+BP00027: "Regulation of lipid, fatty acid and steroid metabolism"
+BP00053: RNA localization
+BP00080: Other pathways of electron transport
+BP00108: Receptor protein tyrosine kinase signaling pathway
+BP00134: Mitochondrial transport
+BP00161: Other immune and defense
+BP00028: Lipid and fatty acid transport
+BP00054: tRNA metabolism
+BP00081: Coenzyme and prosthetic group metabolism
+BP00109: Receptor protein serine/threonine kinase signaling pathway
+BP00242: Embryogenesis
+BP00029: Lipid and fatty acid binding
+BP00055: rRNA metabolism
+BP00082: Coenzyme metabolism
+BP00136: Other intracellular protein traffic
+BP00243: Determination of dorsal/ventral axis
+BP00270: Growth factor homeostasis
+BP00056: Metabolism of cyclic nucleotides
+BP00083: Vitamin metabolism
+BP00137: Protein targeting and localization
+BP00190: Pain sensation
+BP00244: Anterior/posterior patterning
+BP00271: Other homeostasis activities
+BP00057: "Regulation of nucleoside, nucleotide metabolism"
+BP00084: Vitamin biosynthesis
+BP00138: Protein targeting
+BP00245: Segment specification
+BP00272: Phospholipid metabolism
+BP00085: Vitamin catabolism
+BP00058: "Nucleoside, nucleotide and nucleic acid transport"
+BP00139: Asymmetric protein localization
+BP00192: Other sensory perception
+BP00246: Ectoderm development
+BP00059: "Other nucleoside, nucleotide and nucleic acid metabolism"
+BP00166: Neuronal activities
+BP00193: Developmental processes
+BP00247: Endoderm development
+BP00273: Chromatin packaging and remodeling
+BP00086: Pterin metabolism
+BP00167: Synaptic transmission
+BP00194: Gametogenesis
+BP00248: Mesoderm development
+BP00274: Cell communication
+BP00249: Gut mesoderm development
+BP00087: Porphyrin metabolism
+BP00168: Neurotransmitter release
+BP00195: Meiosis
+BP00275: Extracellular matrix protein-mediated signaling
+BP00088: Vitamin/cofactor transport
+BP00169: Nerve-nerve synaptic transmission
+BP00276: General vesicle transport
+BP00089: Other coenzyme and prosthetic group metabolism
+BP00196: Oogenesis
+BP00277: Phagocytosis
+BP00197: Spermatogenesis and motility
+BP00278: Pinocytosis
+BP00279: Peroxisome transport
+BP00199: Neurogenesis
+BP00010: Disaccharide metabolism
+BP00011: Monosaccharide metabolism
+BP00012: Other carbohydrate metabolism
+BP00200: "Lactation, mammary development"
+BP00013: Amino acid metabolism
+BP00040: mRNA transcription
+BP00120: Cell adhesion-mediated signaling
+BP00201: Skeletal development
+BP00041: General mRNA transcription activities
+BP00121: Steroid hormone-mediated signaling
+BP00202: Other developmental process
+BP00014: Amino acid biosynthesis
+BP00122: Ligand-mediated signaling
+BP00203: Cell cycle
+BP00015: Amino acid metabolism regulation
+BP00123: Other signal transduction
+BP00150: MHCI-mediated immunity
+BP00204: Cytokinesis
+BP00016: Amino acid transport
+BP00042: mRNA transcription initiation
+BP00070: Protein-lipid modification
+BP00124: Cell adhesion
+BP00151: MHCII-mediated immunity
+BP00017: Amino acid catabolism
+BP00043: mRNA transcription elongation
+BP00125: Intracellular protein traffic
+BP00206: Chromosome segregation
+BP00018: Other amino acid metabolism
+BP00044: mRNA transcription regulation
+BP00071: Proteolysis
+BP00045: mRNA transcription termination
+BP00126: Exocytosis
+BP00152: "B-cell- and antibody-mediated immunity"
+BP00207: Cell cycle control
+BP00019: "Lipid, fatty acid and steroid metabolism"
+BP00072: Protein complex assembly
+BP00127: Regulated exocytosis
+BP00153: Complement-mediated immunity
+BP00180: Detoxification
+BP00208: Other cell cycle process
+BP00046: Other mRNA transcription
+BP00073: Translational regulation
+BP00209: Blood circulation and gas exchange
+BP00047: Pre-mRNA processing
+BP00074: Amino acid activation
+BP00128: Constitutive exocytosis
+BP00155: Macrophage-mediated immunity
+BP00182: Sensory perception
+BP00048: mRNA splicing
+BP00129: Endocytosis
+BP00183: Chemosensory perception
+BP00263: Inhibition of apoptosis
+BP00290: Lipid metabolism
+BP00049: mRNA polyadenylation
+BP00075: Other protein metabolism
+BP00156: Interferon-mediated immunity
+BP00184: Olfaction
+BP00264: Tumor suppressor
+BP00291: Calcium ion homeostasis
+BP00076: Electron transport
+BP00157: Natural killer cell mediated immunity
+BP00239: Other apoptosis
+BP00265: Oncogene
+BP00292: Other carbon metabolism
+BP00077: Oxidative phosphorylation
+BP00185: Taste
+BP00293: Other sulfur metabolism
+BP00078: Ferredoxin metabolism
+BP00267: Homeostasis
+BP00079: Sulfur redox metabolism
+BP00187: Pheromone response
+BP00268: Antioxidation and free radical removal
+BP00269: Glucose homeostasis
+BP00295: Steroid metabolism
+BP00188: Vision
+BP00296: Bile acid metabolism
+BP00189: Hearing
+BP00297: Other steroid metabolism
+BP00001: Carbohydrate metabolism
+BP00298: Glycogen metabolism
+BP00299: Steroid hormone metabolism
+BP00003: Regulation of carbohydrate metabolism
+BP00030: "Other lipid, fatty acid and steroid metabolism"
+BP00110: Other receptor mediated signaling pathway
+BP00004: Carbohydrate transport
+BP00111: Intracellular signaling cascade
+BP00005: Glycolysis
+BP00031: "Nucleoside, nucleotide and nucleic acid metabolism"
+BP00112: Calcium mediated signaling
+BP00006: Gluconeogenesis
+BP00032: Purine metabolism
+BP00140: Other protein targeting and localization
+BP00301: Non-vertebrate process
+BP00007: Pentose-phosphate shunt
+BP00033: Pyrimidine metabolism
+BP00060: Protein metabolism and modification
+BP00114: MAPKKK cascade
+BP00008: Tricarboxylic acid pathway
+BP00034: DNA metabolism
+BP00061: Protein biosynthesis
+BP00115: NF-kappaB cascade
+BP00141: Transport
+BP00009: Other polysaccharide metabolism
+BP00035: DNA replication
+BP00062: Protein folding
+BP00116: JNK cascade
+BP00142: Ion transport
+BP00223: Angiogenesis
+BP00250: Muscle development
+BP00036: DNA repair
+BP00063: Protein modification
+BP00117: JAK-STAT cascade
+BP00143: Cation transport
+BP00170: Neuromuscular synaptic transmission
+BP00224: Cell proliferation and differentiation
+BP00171: Action potential propagation
+BP00037: DNA degradation
+BP00090: Nitrogen metabolism
+BP00118: NO mediated signal transduction
+BP00144: Anion transport
+BP00251: Heart development
+BP00091: Nitrogen utilization
+BP00038: DNA recombination
+BP00064: Protein phosphorylation
+BP00119: Other intracellular signaling cascade
+BP00145: Small molecule transport
+BP00172: Other neuronal activity
+BP00252: Sex determination
+BP00065: Protein methylation
+BP00092: Nitric oxide biosynthesis
+BP00146: Extracellular transport and import
+BP00173: Muscle contraction
+BP00253: Induction of apoptosis
+BP00280: Lysosome transport
+BP00066: Protein acetylation
+BP00147: Other transport
+BP00254: Apoptotic processes
+BP00281: Oncogenesis

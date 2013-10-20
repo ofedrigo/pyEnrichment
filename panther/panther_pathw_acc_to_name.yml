@@ -1,0 +1,154 @@
+--- 
+P02739: De novo pyrimidine deoxyribonucleotide biosynthesis
+P00030: Hypoxia response via HIF activation
+P00001: Adrenaline and noradrenaline biosynthesis
+P04374: 5HT2 type receptor mediated signaling pathway
+P02768: Proline biosynthesis
+P00031: Inflammation mediated by chemokine and cytokine signaling pathway
+P00002: Alpha adrenergic receptor signaling pathway
+P04375: 5HT3 type receptor mediated signaling pathway
+P00032: Insulin/IGF pathway-mitogen activated protein kinase kinase/MAP kinase cascade
+P02769: Purine metabolism
+P00003: Alzheimer disease-amyloid secretase pathway
+P00060: Ubiquitin proteasome pathway
+P04376: 5HT4 type receptor mediated signaling pathway
+P00004: Alzheimer disease-presenilin pathway
+P04377: Beta1 adrenergic receptor signaling pathway
+P02740: De novo pyrmidine ribonucleotides biosythesis
+P00005: Angiogenesis
+P00033: Insulin/IGF pathway-protein kinase B signaling cascade
+P02741: Flavin biosynthesis
+P02770: Pyridoxal phosphate salvage pathway
+P05911: Angiotensin II-stimulated signaling through G proteins and beta-arrestin
+P00006: Apoptosis signaling pathway
+P04378: Beta2 adrenergic receptor signaling pathway
+P00034: Integrin signalling pathway
+P02742: Folate biosynthesis
+P05912: Dopamine receptor mediated signaling pathway
+P00007: Axon guidance mediated by semaphorins
+P02771: Pyrimidine Metabolism
+P04379: Beta3 adrenergic receptor signaling pathway
+P00035: Interferon-gamma signaling pathway
+P05913: Enkephalin release
+P00008: Axon guidance mediated by Slit/Robo
+P02743: Formyltetrahydroformate biosynthesis
+P00036: Interleukin signaling pathway
+P02772: Pyruvate metabolism
+P05914: Nicotine degradation
+P00009: Axon guidance mediated by netrin
+P02744: Fructose galactose metabolism
+P00037: Ionotropic glutamate receptor pathway
+P02773: S adenosyl methionine biosynthesis
+P02745: Glutamine glutamate conversion
+P05915: Opioid proenkephalin pathway
+P04380: Cortocotropin releasing factor receptor signaling pathway
+P00038: JAK/STAT signaling pathway
+P02746: Heme biosynthesis
+P00039: Metabotropic glutamate receptor group III pathway
+P05916: Opioid prodynorphin pathway
+P02774: Salvage pyrimidine deoxyribonucleotides
+P00010: B cell activation
+P05917: Opioid proopiomelanocortin pathway
+P02775: Salvage pyrimidine ribonucleotides
+P02776: Serine glycine biosynthesis
+P02748: Isoleucine biosynthesis
+P05918: p38 MAPK pathway
+P02777: Succinate to proprionate conversion
+P00011: Blood coagulation
+P02749: Leucine biosynthesis
+P04384: Gamma-aminobutyric acid synthesis
+P00040: Metabotropic glutamate receptor group II pathway
+P02778: Sulfate assimilation
+P00041: Metabotropic glutamate receptor group I pathway
+P04385: Histamine H1 receptor mediated signaling pathway
+P00012: Cadherin signaling pathway
+P04386: Histamine H2 receptor mediated signaling pathway
+P00042: Muscarinic acetylcholine receptor 1 and 3 signaling pathway
+P00013: Cell cycle
+P00014: Cholesterol biosynthesis
+P04387: Histamine synthesis
+P02721: ATP synthesis
+P00043: Muscarinic acetylcholine receptor 2 and 4 signaling pathway
+P02750: Lipoate_biosynthesis
+P02722: Acetate utilization
+P00015: Circadian clock system
+P02751: Lysine biosynthesis
+P02780: Thiamine metabolism
+P02723: Adenine and hypoxanthine salvage pathway
+P00044: Nicotinic acetylcholine receptor signaling pathway
+P00016: Cytoskeletal regulation by Rho GTPase
+P02781: Threonine biosynthesis
+P02752: Mannose metabolism
+P00017: DNA replication
+P02724: Alanine biosynthesis
+P00045: Notch signaling pathway
+P02753: Methionine biosynthesis
+P02782: Triacylglycerol metabolism
+P05726: 2-arachidonoylglycerol biosynthesis
+P02725: Allantoin degradation
+P00046: Oxidative stress response
+P00018: EGF receptor signaling pathway
+P02726: Aminobutyrate degradation
+P00047: PDGF signaling pathway
+P00019: Endothelin signaling pathway
+P02754: Methylcitrate cycle
+P02755: Methylmalonyl pathway
+P05728: Anandamide_degradation
+P02727: Androgen/estrogene/progesterone biosynthesis
+P00048: PI3 kinase pathway
+P02756: N-acetylglucosamine metabolism
+P02728: Arginine biosynthesis
+P04391: Oxytocin receptor mediated signaling pathway
+P00049: Parkinson disease
+P05729: Bupropion_degradation
+P02784: Tyrosine biosynthesis
+P02729: Ascorbate degradation
+P04392: P53 pathway feedback loops 1
+P02757: O-antigen biosynthesis
+P02785: Valine biosynthesis
+P00020: FAS signaling pathway
+P04393: Ras Pathway
+P00021: FGF signaling pathway
+P02758: Ornithine degradation
+P02759: PLP biosynthesis
+P02787: Vitamin B6 metabolism
+P00050: Plasminogen activating cascade
+P05730: Endogenous_cannabinoid_signaling
+P04394: Thyrotropin-releasing hormone receptor signaling pathway
+P02788: Xanthine and guanine salvage pathway
+P00051: TCA cycle
+P00022: General transcription by RNA polymerase I
+P04395: Vasopressin synthesis
+P02730: Asparagine and aspartate biosynthesis
+P00052: TGF-beta signaling pathway
+P05731: GABA-B_receptor_II_signaling
+P00023: General transcription regulation
+P04396: Vitamin D metabolism and pathway
+P00053: T cell activation
+P00024: Glycolysis
+P04397: p53 pathway by glucose deprivation
+P00054: Toll receptor signaling pathway
+P00025: Hedgehog signaling pathway
+P04398: p53 pathway feedback loops 2
+P02732: Carnitine and CoA metabolism
+P05734: Synaptic_vesicle_trafficking
+P00026: Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway
+P02733: Carnitine metabolism
+P00027: Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway
+P02762: Pentose phosphate pathway
+P00055: Transcription regulation by bZIP transcription factor
+P00028: Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction
+P02735: Cobalamin biosynthesis
+P00056: VEGF signaling pathway
+P04371: 5-Hydroxytryptamine biosynthesis
+P00029: Huntington disease
+P02736: Coenzyme A biosynthesis
+P00057: Wnt signaling pathway
+P00058: mRNA splicing
+P04372: 5-Hydroxytryptamine degredation
+P02765: Phenylalanine biosynthesis
+P02737: Cysteine biosynthesis
+P02738: De novo purine biosynthesis
+P02766: Phenylethylamine degradation
+P00059: p53 pathway
+P04373: 5HT1 type receptor mediated signaling pathway

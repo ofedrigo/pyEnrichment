@@ -1,0 +1,254 @@
+--- 
+MF00058: Primase
+MF00272: Intermediate filament binding protein
+MF00084: ATP-binding cassette (ABC) transporter
+MF00139: Acyltransferase
+MF00165: Other lyase
+MF00191: Viral coat protein
+MF00219: Annexin
+MF00246: Other cytokine receptor
+MF00192: Other viral protein
+MF00059: Replication origin binding protein
+MF00085: Carbohydrate transporter
+MF00166: Isomerase
+MF00247: Membrane-bound signaling molecule
+MF00273: Hydrogen transporter
+MF00248: Metalloprotease inhibitor
+MF00086: Other transporter
+MF00167: Epimerase/racemase
+MF00087: Transfer/carrier protein
+MF00168: Mutase
+MF00249: Cysteine protease inhibitor
+MF00275: Transcription cofactor
+MF00088: Apolipoprotein
+MF00169: Other isomerase
+MF00276: Cell junction protein
+MF00089: Mitochondrial carrier protein
+MF00277: Other cell junction protein
+MF00197: Miscellaneous function
+MF00278: TGF-beta receptor
+MF00279: Tumor necrosis factor receptor
+MF00198: Structural protein
+MF00199: Storage protein
+MF00010: Acetylcholine receptor
+MF00011: GABA receptor
+MF00200: Myelin protein
+MF00012: Other ligand-gated ion channel
+MF00120: Synthetase
+MF00201: Surfactant
+MF00013: Tyrosine protein kinase receptor
+MF00121: Aminoacyl-tRNA synthetase
+MF00202: Other miscellaneous function protein
+MF00014: Serine/threonine protein kinase receptor
+MF00040: Cell adhesion molecule
+MF00015: Other receptor
+MF00122: Other synthase/synthetase
+MF00230: Actin binding motor protein
+MF00016: Signaling molecule
+MF00042: Nucleic acid binding
+MF00123: Oxidoreductase
+MF00231: Microtubule binding motor protein
+MF00017: Cytokine
+MF00043: DNA-directed DNA polymerase
+MF00124: Oxygenase
+MF00150: Glycosidase
+MF00151: Glucosidase
+MF00232: Interleukin
+MF00018: Chemokine
+MF00044: Nuclease
+MF00070: Chromatin/chromatin-binding protein
+MF00125: Peroxidase
+MF00233: Interferon
+MF00019: Growth factor
+MF00045: Exodeoxyribonuclease
+MF00071: Translation factor
+MF00126: Dehydrogenase
+MF00152: Galactosidase
+MF00234: Other cytokine
+MF00260: Other cell adhesion molecule
+MF00046: Endodeoxyribonuclease
+MF00072: Translation initiation factor
+MF00127: Reductase
+MF00153: Protease
+MF00047: DNA photolyase
+MF00261: Actin binding cytoskeletal protein
+MF00073: Translation elongation factor
+MF00128: Oxidase
+MF00154: Metalloprotease
+MF00180: Extracellular matrix glycoprotein
+MF00209: Hsp 70 family chaperone
+MF00074: Translation release factor
+MF00262: Non-motor actin binding protein
+MF00048: DNA ligase
+MF00129: Hydroxylase
+MF00155: Phosphorylase
+MF00181: Other extracellular matrix
+MF00236: Exoribonuclease
+MF00263: Other actin family cytoskeletal protein
+MF00049: DNA glycosylase
+MF00075: Ribosomal protein
+MF00156: Other hydrolase
+MF00182: Gap junction
+MF00237: Endoribonuclease
+MF00238: Phosphatase activator
+MF00290: Other enzyme regulator
+MF00076: Other nucleic acid binding
+MF00157: Lyase
+MF00264: Microtubule family cytoskeletal protein
+MF00265: Tubulin
+MF00291: Other enzyme activator
+MF00077: Chaperone
+MF00158: Aldolase
+MF00184: Tight junction
+MF00239: Phosphatase inhibitor
+MF00078: Chaperonin
+MF00159: Dehydratase
+MF00266: Other microtubule family cytoskeletal protein
+MF00292: Other enzyme inhibitor
+MF00079: Other chaperones
+MF00267: Membrane traffic protein
+MF00293: Transmembrane receptor regulatory/adaptor protein
+MF00294: Double-stranded DNA binding protein
+MF00268: Vesicle coat protein
+MF00188: Select calcium binding protein
+MF00269: SNARE protein
+MF00189: Other select calcium binding proteins
+MF00001: Receptor
+MF00002: G-protein coupled receptor
+MF00003: Nuclear hormone receptor
+MF00110: Nucleotide kinase
+MF00111: Amino acid kinase
+MF00004: Immunoglobulin receptor family member
+MF00030: Anion channel
+MF00005: Cytokine receptor
+MF00031: Voltage-gated ion channel
+MF00112: Other kinase
+MF00032: Voltage-gated sodium channel
+MF00006: Interleukin receptor
+MF00113: Phosphatase
+MF00007: Interferon receptor
+MF00033: Voltage-gated calcium channel
+MF00114: Protein phosphatase
+MF00140: Other transferase
+MF00034: Voltage-gated potassium channel
+MF00115: Carbohydrate phosphatase
+MF00008: Ligand-gated ion channel
+MF00060: Damaged DNA-binding protein
+MF00141: Hydrolase
+MF00222: Zinc finger transcription factor
+MF00035: Other ion channel
+MF00061: Centromere DNA-binding protein
+MF00116: Nucleotide phosphatase
+MF00142: Lipase
+MF00009: Glutamate receptor
+MF00062: Reverse transcriptase
+MF00036: Transcription factor
+MF00117: Other phosphatase
+MF00143: Phospholipase
+MF00224: KRAB box transcription factor
+MF00250: Serine protease inhibitor
+MF00063: Histone
+MF00118: Synthase and synthetase
+MF00144: Esterase
+MF00170: Ligase
+MF00225: Other zinc finger transcription factor
+MF00251: Other protease inhibitor
+MF00064: DNA polymerase processivity factor
+MF00038: Homeobox transcription factor
+MF00090: Other transfer/carrier protein
+MF00145: Amylase
+MF00226: HMG box transcription factor
+MF00065: mRNA processing factor
+MF00091: Cytoskeletal protein
+MF00119: Synthase
+MF00146: Deacetylase
+MF00227: Basic helix-loop-helix transcription factor
+MF00039: Other transcription factor
+MF00228: Basal transcription factor
+MF00092: Other cytoskeletal proteins
+MF00147: Deaminase
+MF00173: Defense/immunity protein
+MF00254: Actin and actin related protein
+MF00281: Tumor necrosis factor family member
+MF00093: Select regulatory molecule
+MF00148: Phosphodiesterase
+MF00174: Complement component
+MF00255: Non-motor microtubule binding protein
+MF00067: mRNA polyadenylation factor
+MF00149: Pyrophosphatase
+MF00229: Extracellular matrix linker protein
+MF00094: Kinase modulator
+MF00175: Major histocompatibility complex antigen
+MF00256: Intermediate filament
+MF00282: Aspartic protease
+MF00068: mRNA splicing factor
+MF00176: Antibacterial response protein
+MF00257: CREB transcription factor
+MF00283: Ubiquitin-protein ligase
+MF00069: Ribonucleoprotein
+MF00095: Kinase inhibitor
+MF00177: Other defense and immunity protein
+MF00258: CAM family adhesion molecule
+MF00284: Other ligase
+MF00096: Phosphatase modulator
+MF00178: Extracellular matrix
+MF00259: Cadherin
+MF00097: G-protein
+MF00098: Large G-protein
+MF00179: Extracellular matrix structural protein
+MF00286: Other DNA-binding protein
+MF00099: Small GTPase
+MF00288: Amino acid transporter
+MF00289: ATP synthase
+MF00100: G-protein modulator
+MF00020: Peptide hormone
+MF00101: Guanyl-nucleotide exchange factor
+MF00021: Neuropeptide
+MF00102: Protease inhibitor
+MF00022: Neurotrophic factor
+MF00210: Hsp 90 family chaperone
+MF00023: Other signaling molecule
+MF00130: Other oxidoreductase
+MF00211: Kinase activator
+MF00024: Ion channel
+MF00050: DNA methyltransferase
+MF00131: Transferase
+MF00212: Other G-protein modulator
+MF00051: Helicase
+MF00132: Nucleotidyltransferase
+MF00213: Non-receptor serine/threonine protein kinase
+MF00240: Immunoglobulin
+MF00052: DNA-directed RNA polymerase
+MF00107: Kinase
+MF00133: Methyltransferase
+MF00214: Non-receptor tyrosine protein kinase
+MF00134: Transketolase
+MF00053: Other RNA-binding protein
+MF00160: Hydratase
+MF00215: Cysteine protease
+MF00241: Protein kinase receptor
+MF00135: Transaldolase
+MF00054: RNA methyltransferase
+MF00108: Protein kinase
+MF00161: Decarboxylase
+MF00216: Serine protease
+MF00242: RNA helicase
+MF00055: Single-stranded DNA-binding protein
+MF00109: Carbohydrate kinase
+MF00136: Acetyltransferase
+MF00162: Cyclase
+MF00217: Other proteases
+MF00243: DNA helicase
+MF00056: DNA strand-pairing protein
+MF00082: Transporter
+MF00137: Glycosyltransferase
+MF00163: Adenylate cyclase
+MF00244: Cyclic nucleotide-gated ion channel
+MF00270: Membrane traffic regulatory protein
+MF00057: DNA topoisomerase
+MF00083: Cation transporter
+MF00138: Transaminase
+MF00164: Guanylate cyclase
+MF00190: Viral protein
+MF00218: Calmodulin related protein
+MF00271: Other membrane traffic protein
